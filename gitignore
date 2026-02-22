@@ -1,0 +1,48 @@
+# Rider project files
+.idea/
+*.sln.iml
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+bin/
+obj/
+out/
+
+# Rider caches
+.idea_modules/
+*.iws
+*.ipr
+
+# ReSharper
+_ReSharper*/
+*.DotSettings.user
+
+# Rider workspace files
+*.workspace
+*.tmp
+
+# NuGet
+*.nupkg
+packages/
+# Uncomment if you have project-wide packages restored automatically
+# !packages/build/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Logs
+*.log
+
+# DotCover
+*.dotCover
+
+# Visual Studio Code (если используешь вместе с Rider)
+.vscode/
