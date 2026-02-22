@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApp5.LibraryLogic
+namespace ConsoleApp6
 {
     public class Library
     {

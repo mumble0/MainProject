@@ -1,0 +1,15 @@
+E:\Загрузки Е\рп-10\Конструирование\проекти\MainProject\ConsoleApp6\ConsoleApp6\bin\Debug\net9.0\ConsoleApp6.exe
+E:\Загрузки Е\рп-10\Конструирование\проекти\MainProject\ConsoleApp6\ConsoleApp6\bin\Debug\net9.0\ConsoleApp6.deps.json
+E:\Загрузки Е\рп-10\Конструирование\проекти\MainProject\ConsoleApp6\ConsoleApp6\bin\Debug\net9.0\ConsoleApp6.runtimeconfig.json
+E:\Загрузки Е\рп-10\Конструирование\проекти\MainProject\ConsoleApp6\ConsoleApp6\bin\Debug\net9.0\ConsoleApp6.dll
+E:\Загрузки Е\рп-10\Конструирование\проекти\MainProject\ConsoleApp6\ConsoleApp6\bin\Debug\net9.0\ConsoleApp6.pdb
+E:\Загрузки Е\рп-10\Конструирование\проекти\MainProject\ConsoleApp6\ConsoleApp6\obj\Debug\net9.0\ConsoleApp6.GeneratedMSBuildEditorConfig.editorconfig
+E:\Загрузки Е\рп-10\Конструирование\проекти\MainProject\ConsoleApp6\ConsoleApp6\obj\Debug\net9.0\ConsoleApp6.AssemblyInfoInputs.cache
+E:\Загрузки Е\рп-10\Конструирование\проекти\MainProject\ConsoleApp6\ConsoleApp6\obj\Debug\net9.0\ConsoleApp6.AssemblyInfo.cs
+E:\Загрузки Е\рп-10\Конструирование\проекти\MainProject\ConsoleApp6\ConsoleApp6\obj\Debug\net9.0\ConsoleApp6.csproj.CoreCompileInputs.cache
+E:\Загрузки Е\рп-10\Конструирование\проекти\MainProject\ConsoleApp6\ConsoleApp6\obj\Debug\net9.0\ConsoleApp6.sourcelink.json
+E:\Загрузки Е\рп-10\Конструирование\проекти\MainProject\ConsoleApp6\ConsoleApp6\obj\Debug\net9.0\ConsoleApp6.dll
+E:\Загрузки Е\рп-10\Конструирование\проекти\MainProject\ConsoleApp6\ConsoleApp6\obj\Debug\net9.0\refint\ConsoleApp6.dll
+E:\Загрузки Е\рп-10\Конструирование\проекти\MainProject\ConsoleApp6\ConsoleApp6\obj\Debug\net9.0\ConsoleApp6.pdb
+E:\Загрузки Е\рп-10\Конструирование\проекти\MainProject\ConsoleApp6\ConsoleApp6\obj\Debug\net9.0\ConsoleApp6.genruntimeconfig.cache
+E:\Загрузки Е\рп-10\Конструирование\проекти\MainProject\ConsoleApp6\ConsoleApp6\obj\Debug\net9.0\ref\ConsoleApp6.dll
