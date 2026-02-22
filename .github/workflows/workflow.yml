@@ -13,4 +13,4 @@ jobs:
       - uses: actions/checkout@v5
 
       - name: Build dotnet
-        run: dotnet build  ConsoleApp6\ConsoleApp6\ConsoleApp6.csproj
+        run: dotnet build  ConsoleApp6/ConsoleApp6/ConsoleApp6.csproj
