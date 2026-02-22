@@ -16,4 +16,4 @@ jobs:
         run: dotnet build  ConsoleApp6/ConsoleApp6/ConsoleApp6.csproj
         
       - name: Run unit tests
-        run: dotnet test
+        run: dotnet test ConsoleApp6/TestProject1/TestProject1.csproj
