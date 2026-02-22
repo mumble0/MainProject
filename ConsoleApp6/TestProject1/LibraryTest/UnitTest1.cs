@@ -1,6 +1,7 @@
 ﻿using Xunit;
+using System.Collections.Generic;
 
-namespace Tests1.Tests
+namespace Tests1.Tests.LibraryTest
 {
     public class Book
     {
